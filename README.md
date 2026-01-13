@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
   <h1>Hi, I'm karunakar chellinkala👋</h1>
   <p><strong>Full-Stack Developer | Open Source Contributor </strong></p>
@@ -6,7 +6,7 @@
 </div>
 
 
-##About Me:
+## About Me:
 <div>
   <ul>
    <li>Software Engineering student.</li>
@@ -17,7 +17,7 @@
   </ul>
 </div>
 
-##🛠️ Skills & Technologies
+##  Skills & Technologies
 <div>
 <h1>Languages</h1>
 <p> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=javascript" /> </p>
