@@ -2,34 +2,27 @@
 <div align="center">
   <h1>Hi, I'm karunakar chellinkala👋</h1>
   <p><strong>Full-Stack Developer | Open Source Contributor </strong></p>
-
-  <!-- Social & Contact Badges -->
-  <a href="linkedin.com/in/karunakarchellinkala"><img src="img.shields.io" alt="LinkedIn"></a>
-  <a href="mailto:karunakarchellinkala@gmail.com"><img src="img.shields.io" alt="Email"></a>
-  <a href="https://karunakarchellinkala.github.io/KC-portfolio"><img src="img.shields.io" alt="Portfolio"></a>
+  <p>I’m a passionate software engineer who enjoys building scalable applications, solving algorithmic problems, and continuously learning new technologies.</p>
 </div>
 
-<!--
-**karunakarchellinkala/karunakarchellinkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+##About Me:
 <div>
-  <p><b>Skills:</b></p>
-  <p>Front-end:
-![HTML5](img.shields.io)
-![CSS3](img.shields.io)
-![JavaScript](img.shields.io)
-![React](img.shields.io)
-![TailwindCSS](img.shields.io)</p>
+  <ul>
+   <li>Software Engineering student.</li>
+   <li>Strong in DSA & Core CS concepts.</li>
+   <li>Interested in Backend & Full-Stack Development.</li>
+   <li>Currently learning Cloud, DevOps & AI systems.</li>
+   <li>Open to collaborations and hackathons.</li>
+  </ul>
+</div>
+
+##🛠️ Skills & Technologies
+<div>
+<h1>Languages</h1>
+<p> <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=javascript" /> </p>
+<h1>Frameworks & Tools </h1>
+<p> <img src="https://skillicons.dev/icons?i=spring" /> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=docker" /> <img src="https://skillicons.dev/icons?i=git" /> </p>
+<h1> Databases </h1>
+<p> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
 </div>
