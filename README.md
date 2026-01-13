@@ -26,3 +26,23 @@
 <h1> Databases </h1>
 <p> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgres" /> <img src="https://skillicons.dev/icons?i=mongodb" /> </p>
 </div>
+
+## Featured Work
+
+<div>
+  <ul>
+   <li>DSA & Competitive Programming.</li>
+   <li>Backend APIs with authentication.</li>
+   <li>Full-Stack applications.</li>
+  </ul>
+</div>
+
+## Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" />
+</p>
