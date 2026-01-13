@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm karunakar chellinkala👋</h1>
-  <p><strong>Full-Stack Developer | Open Source Contributor </strong></p>
+  <p><strong> Software Engineer | Open Source Contributor | Tech Enthusiast </strong></p>
   <p>I’m a passionate software engineer who enjoys building scalable applications, solving algorithmic problems, and continuously learning new technologies.</p>
 </div>
 
