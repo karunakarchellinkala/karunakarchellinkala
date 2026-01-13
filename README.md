@@ -55,7 +55,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://karunakarchellinkala.github.io/KC-portfolio">
-  <img src="https://skillicons.dev/icons?i=portfolio" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </a>
 </p>
 
