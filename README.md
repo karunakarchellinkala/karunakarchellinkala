@@ -39,11 +39,11 @@
 
 ## Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karunakarchellinkala&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunakarchellinkala&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=karunakarchellinkala&theme=radical" />
 </p>
 
 ##  Connect With Me
