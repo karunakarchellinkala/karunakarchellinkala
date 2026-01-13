@@ -42,7 +42,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" />
 </p>
+
+##  Connect With Me
+<p>
+  <a href="https://linkedin.com/in/karunakarchellinkala">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:karunakarchellinkala@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://karunakarchellinkala.github.io/KC-portfolio">
+  <img src="https://skillicons.dev/icons?i=portfolio" />
+</a>
+</p>
+
+---
+
+⭐ Clean code, continuous learning, and real-world impact drive my work.
