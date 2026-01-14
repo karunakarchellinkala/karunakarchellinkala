@@ -14,8 +14,6 @@
 - Open to collaborations and hackathons.
 
 
-## 🌐 Socials:
-
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/html5-%231572B6.svg?style=plastic&logo=html5&logoColor=white) 
